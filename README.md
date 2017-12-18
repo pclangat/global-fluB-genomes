@@ -7,7 +7,7 @@ Langat P, Raghwani J, Dudas G, Bowden TA, Edwards S, Gall A, Bedford T, Rambaut 
 Some data, including larger data files, can be found in the associated Dryad repository https://doi.org/10.5061/dryad.s1d37
 
 ## Summary of analyses
-1. Map of genome samples
+1. [Map of genome samples](/map-of-genomes/README.md)
 2. Trees annotated with genotypes and trunk substitutions
 3. Antigenic maps
 4. Timeline of trunk substitutions
