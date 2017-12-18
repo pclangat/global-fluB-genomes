@@ -10,6 +10,6 @@ Some data, including larger data files, can be found in the associated Dryad rep
 1. [Map of genome samples](/map-of-genomes)
 2. [Trees annotated with genotypes and trunk substitutions](/genotypes-and-substitutions)
 3. [Antigenic maps](/antigenic-maps)
-4. Timeline of trunk substitutions
+4. [Timeline of trunk substitutions](/trunk-substitutions-timeline)
 5. Genetic diversity over time
 6. Regional phylogenies
