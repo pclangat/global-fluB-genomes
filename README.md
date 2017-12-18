@@ -1,6 +1,6 @@
 # Genome-wide evolutionary dynamics of influenza B viruses on a global scale
 
-This repository holds the analysis and data visualisation scripts used in:
+This repository holds the analysis and data visualization scripts used in:
 
 Langat P, Raghwani J, Dudas G, Bowden TA, Edwards S, Gall A, Bedford T, Rambaut A, Daniels R, Russell C, Pybus OG, McCauley J, Kellam P, Watson SJ (2017). Genome-wide evolutionary dynamics of influenza B viruses on a global scale. PLOS Pathogens, in press.
 
@@ -9,7 +9,7 @@ Some data, including larger data files, can be found in the associated Dryad rep
 ## Summary of analyses
 1. [Map of genome samples](/map-of-genomes)
 2. [Trees annotated with genotypes and trunk substitutions](/genotypes-and-substitutions)
-3. Antigenic maps
+3. [Antigenic maps](/antigenic-maps)
 4. Timeline of trunk substitutions
 5. Genetic diversity over time
 6. Regional phylogenies
