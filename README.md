@@ -12,4 +12,4 @@ Some data, including larger data files, can be found in the associated Dryad rep
 3. [Antigenic maps](/antigenic-maps)
 4. [Timeline of trunk substitutions](/trunk-substitutions-timeline)
 5. [Genetic diversity over time](/diversity-timeline)
-6. Regional phylogenies
+6. [Regional phylogenies](/regional-phylogenies)
