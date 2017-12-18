@@ -7,10 +7,12 @@ Usage: location_counter.py <table_of_samples.tsv> <country or city-level> <outpr
 
 i.e. location_counter.py unique_fullgen.txt city fluB —> outputs: fluB_location_summary.txt
 
+
 #### Count samples per year for time series summary
 Usage: timeseries_counter.py <table_of_samples.tsv> <outprefix>
 
 i.e. timeseries_counter.py unique_fullgen.txt fluB —> outputs: fluB_timeseries_summary.txt
+
 
 #### Plot the map and time series summaries using Tableau Notebooks
 fluB_unique_fullgenomes.twb
