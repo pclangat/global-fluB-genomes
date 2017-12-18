@@ -8,7 +8,7 @@ Some data, including larger data files, can be found in the associated Dryad rep
 
 ## Summary of analyses
 1. [Map of genome samples](/map-of-genomes)
-2. Trees annotated with genotypes and trunk substitutions
+2. [Trees annotated with genotypes and trunk substitutions](/genotypes-and-substitutions)
 3. Antigenic maps
 4. Timeline of trunk substitutions
 5. Genetic diversity over time
