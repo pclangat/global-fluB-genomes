@@ -1,4 +1,4 @@
-## Diversity timelines
+## Genetic diversity over time
 The code to generate Figures 7 and S12.
 
 Genetic diversity was calculated in year time windows for each region using pact. Regional BEAST posterior trees for each gene were renamed as in.trees
